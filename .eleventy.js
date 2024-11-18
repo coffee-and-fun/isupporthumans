@@ -24,7 +24,7 @@ const createSocialImageForArticle = (input, output) =>
 
 			const post = {
 				title: title,
-				author: 'coffeeandfun.com'
+				author: 'isupporthumans.com'
 			};
 
 			const width = 1200;

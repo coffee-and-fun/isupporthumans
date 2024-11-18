@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /cdn-cgi/
-Disallow: /demo/
-Sitemap: https://www.coffeeandfun.com/sitemap.xml
